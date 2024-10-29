@@ -1,0 +1,23 @@
+button{
+    margin-left: 20px;
+    padding: 20px;
+    width: 150px;
+    color: white;
+}
+
+.boton1{
+    border-radius: 10px;
+    background: linear-gradient(68deg,blue,white 99%);
+    color: black;
+    border-left: 10px solid black;
+    border-top: 10px solid rgb(255, 0, 0);
+    border-right: 10px solid green;
+    border-bottom: 10px solid blue;
+}
+
+.boton2{
+    background-color: black;
+    border: 5px solid;
+    border-image: linear-gradient(30deg, rgb(255, 0, 242), red 1%, blue 99%) 1;
+}
+
